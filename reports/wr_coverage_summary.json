@@ -1,0 +1,67 @@
+{
+  "cohorts": [
+    {
+      "draft_year": "2023",
+      "receivers": 38,
+      "with_forty": 34,
+      "with_three_cone": 12,
+      "with_shuttle": 18,
+      "complete_traditional_tests": 10,
+      "with_skill_tracking": 38,
+      "with_agility_tracking": 13,
+      "with_rookie_separation": 29,
+      "with_50_rookie_separation_routes": 25,
+      "with_100_rookie_separation_routes": 22,
+      "rookie_routes": 7416.0,
+      "separation_routes": 6536.0,
+      "target_routes": 1344.0,
+      "target_separation_routes": 1344.0,
+      "nontarget_routes": 6072.0,
+      "nontarget_separation_routes": 5192.0
+    },
+    {
+      "draft_year": "2024",
+      "receivers": 31,
+      "with_forty": 29,
+      "with_three_cone": 9,
+      "with_shuttle": 9,
+      "complete_traditional_tests": 7,
+      "with_skill_tracking": 31,
+      "with_agility_tracking": 12,
+      "with_rookie_separation": 27,
+      "with_50_rookie_separation_routes": 20,
+      "with_100_rookie_separation_routes": 15,
+      "rookie_routes": 5201.0,
+      "separation_routes": 4496.0,
+      "target_routes": 978.0,
+      "target_separation_routes": 978.0,
+      "nontarget_routes": 4223.0,
+      "nontarget_separation_routes": 3518.0
+    },
+    {
+      "draft_year": "2025",
+      "receivers": 37,
+      "with_forty": 33,
+      "with_three_cone": 11,
+      "with_shuttle": 11,
+      "complete_traditional_tests": 8,
+      "with_skill_tracking": 37,
+      "with_agility_tracking": 13,
+      "with_rookie_separation": 23,
+      "with_50_rookie_separation_routes": 17,
+      "with_100_rookie_separation_routes": 15,
+      "rookie_routes": 4227.0,
+      "separation_routes": 3701.0,
+      "target_routes": 684.0,
+      "target_separation_routes": 684.0,
+      "nontarget_routes": 3543.0,
+      "nontarget_separation_routes": 3017.0
+    }
+  ],
+  "route_rows_with_unmatched_games": 0,
+  "notes": [
+    "Routes require nonmissing route_ran, nonnullified play, rookie season, and REG season_type.",
+    "Tracking availability is not a count of valid cuts; cut extraction and quality checks remain.",
+    "Fifty and 100 routes are sensitivity thresholds, not preselected inclusion requirements."
+  ]
+}

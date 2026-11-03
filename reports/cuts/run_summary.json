@@ -1,0 +1,12 @@
+{
+  "players": 69,
+  "events": 992,
+  "cuts": 239,
+  "examples": 60,
+  "candidate_events": 103,
+  "synthetic_and_output_checks": "passed",
+  "development_years": [
+    2023,
+    2024
+  ]
+}

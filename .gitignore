@@ -1,0 +1,5 @@
+data/
+nfl-big-data-bowl-2027/
+__pycache__/
+*.pyc
+.env
